@@ -18,3 +18,10 @@ body {
 .quote.answer {
     background-color: #FFFEDF;
 }
+
+a {
+    color: grey;
+    &:hover {
+      color: black;
+    }
+}
